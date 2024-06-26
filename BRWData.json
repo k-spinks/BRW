@@ -1,0 +1,105 @@
+[
+  {
+    "box": "original",
+    "schoolsOfMagic": ["Conspiracy", "Destruction", "Divination", "Illusion","Necromancy", "Transmutation"
+    ],
+    "mages": ["Jaf'ar", "Tessa", "Rebecca", "Nero"]
+  },
+  {
+    "box": "Hidden Thorns",
+    "schoolsOfMagic": [],
+    "mages": ["Geneve", "Marco"]
+  },
+  {
+    "box": "sator",
+    "schoolsOfMagic": ["Bardic", "Blood", "Cartomancy", "Chronomancy", "Demonology", "Elementalism", "Enchantment", "Mind", "Omnia", "Trickery", "Void"],
+    "mages": ["Arianna", "Arthur Vox", "Baba Yaga", "Bella", "Bronte", "Circe", "Corax", "D. Schiavon", "Dukas", "Eliumbra", "Howard", "Old Jukas", "Skultor", "Telmia", "Tlahuicole", "Tora", "Vivian"]
+  },
+  {
+    "box": "Crono",
+    "schoolsOfMagic":["Myth"],
+    "mages":["Medusa"]
+  },
+  {
+    "box": "Rebirth",
+    "schoolsOfMagic":["Agony", "Alchemy", "Hex", "Shamanic", "Technomancy", "Nightmare"],
+    "mages":["Arianna", "Baron Doria", "Gramigna", "Rikkart"],
+    "extras": [
+      {
+        "box":"Irene",
+        "schoolsOfMagic":[],
+        "mages":["Irene"]
+      }
+    ]
+  },
+  {
+    "box": "Deadly Mask",
+    "schoolsOfMagic":[],
+    "mages":["Angela", "Sefu"]
+  },
+  {
+    "box":"Rotas",
+    "content": [
+      {
+        "box":"Antiquities",
+        "schoolsOfMagic":["Oracle"],
+        "mages":["Cassandra"]
+      },
+      {
+        "box":"Lost Dynasty",
+        "schoolsOfMagic":["Heka"],
+        "mages":["Imhotep", "Saba"]
+      },
+      {
+        "box":"Madness",
+        "schoolsOfMagic":["Chaos"],
+        "mages":["Landolfo II"]
+      },
+      {
+        "box":"North Winds",
+        "schoolsOfMagic":["Druidic"],
+        "mages":["Kormac"]
+      },
+      {
+        "box":"Once Upon A Time",
+        "schoolsOfMagic":[],
+        "mages":["Bella", "Hogwartz", "Maelice", "Venticello"]
+      },
+      {
+        "box":"Silk Road",
+        "schoolsOfMagic":[],
+        "mages":["Alisha", "Dai Jin", "Pyotr"]
+      }
+    ]
+  },
+  {
+    "box":"Apocalypse",
+    "schoolsOfMagic":["Death", "Famine", "Pestilence", "War"],
+    "mages":["Bellum", "Fames", "Mors", "Pestilentia"]
+  },
+  {
+    "box":"Gaea Reborn",
+    "schoolsOfMagic":["Geomancy"],
+    "mages":["Talia"]
+  },
+  {
+    "box":"Dread Forge",
+    "schoolsOfMagic":["Forge"],
+    "mages":["Etna"]
+  },
+  {
+    "box":"Seal of Fire",
+    "schoolsOfMagic":[],
+    "mages":["Prospero"]
+  },
+  {
+    "box":"Magister",
+    "schoolsOfMagic":[],
+    "mages":["Agorix", "Boogeyman", "Onamor"]
+  },
+  {
+    "box":"Duel",
+    "schoolsOfMagic":["Lex"],
+    "mages":["Bartholomäus", "Ulrich"]
+  }
+]
