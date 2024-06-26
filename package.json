@@ -1,0 +1,11 @@
+{
+  "name": "brw-app",
+  "version": "0.0.1",
+  "description": "A web app for Black Rose Wars that allows users to generate a game with random components, and browse mages, schools of magic, evocations, and cards.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Spinks",
+  "license": "MIT"
+}
